@@ -1,8 +1,7 @@
 # SQL Learning Journey 🚀
 
-This repository is my personal place for learning SQL — from absolute basics to more advanced queries, data analysis, and real-world usage.
+This repository is my personal place for learning SQL, from absolute basics to more advanced queries, data analysis, and real-world usage.
 
-No useless theory dumping or copy-paste tutorial spam.  
 The goal is to actually understand SQL and know what I’m doing instead of memorizing random queries.
 
 ---
@@ -47,8 +46,7 @@ sql-learning/
 
 - SQL Server
 - SSMS
-- SQLite
-- Git + GitHub
+- GitHub
 
 ---
 
