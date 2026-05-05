@@ -16,6 +16,9 @@ IMPORTANT:
 - This is a FULL REFRESH process (not incremental load)
 - ALL existing data in Bronze layer will be deleted before reload
 - File paths are hardcoded (local environment dependency)
+
+Usage Example:
+EXEC bronze.load_bronze
 ===========================================================
 */
 
