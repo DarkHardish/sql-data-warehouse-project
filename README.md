@@ -19,6 +19,13 @@ sql-learning/
 └── scripts/         # SQL queries, exercises and practice files
 ```
 
+## Data architecture
+![Data Model](docs/DataWarehouse.png)
+
+- Bronze Layer: Stores raw data from the source. Data is importet from CSV files into SQL Server Database.
+- Silver Layer: Data cleansing, standardization, normalization for analysis.
+- Gold Layer: Business ready data modelded as Star Schema
+
 ---
 
 ## 🧠 What I'm Learning Here
