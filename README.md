@@ -72,7 +72,7 @@ I want to reach a level where I can:
 
 Most of this repository is practical learning.
 
-There will probably be mistakes, ugly queries, and weird solutions sometimes — and honestly that’s fine.
+There will probably be mistakes, ugly queries, and weird solutions sometimes
 
 That’s how real learning works.
 
